@@ -1,5 +1,6 @@
 # This is a readme file for the DEMO-REPO
 
-DESCRIPTION!
+## Subheader
 
-this is a repo created in VScode and and connected to the remote repo in GitHub
+Description:
+this is a repo created in VScode and connected to the remote repo in GitHub
